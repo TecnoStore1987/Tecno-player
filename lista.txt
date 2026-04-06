@@ -1,2 +1,1 @@
 http://itsmedia.pro:80/get.php?username=Adriana2026&password=Adriana2026&type=m3u_plus
-http://live.detodotvplay.com:8080/get.php?username=PNNLeH9PFC&password=xBw1n4cwVV&type=m3u_plus
