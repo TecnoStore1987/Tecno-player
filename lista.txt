@@ -1,1 +1,1 @@
- http://tv.proyectox.vip:8080/get.php?username=rosagonzlz1&password=4372533be65d&type=m3u_plus&output=ts
+http://tv.proyectox.vip:8080/get.php?username=rosagonzlz1&password=4372533be65d&type=m3u_plus&output=ts
