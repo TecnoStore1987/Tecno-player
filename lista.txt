@@ -1,1 +1,1 @@
-http://ak-47scan.dyndns.tv:25461/get.php?username=lupian12&password=RLzpM7Ecywek&type=m3u_plus
+ http://tv.proyectox.vip:8080/get.php?username=rosagonzlz1&password=4372533be65d&type=m3u_plus&output=ts
