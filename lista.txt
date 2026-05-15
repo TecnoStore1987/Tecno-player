@@ -1,2 +1,2 @@
-http://tv.proyectox.vip:8080/get.php?username=rosagonzlz1&password=4372533be65d&type=m3u_plus&output=ts
 http://smarterstv99.dyndns.tv:25461/get.php?username=nanovic10&password=hDjbYHYnr9yt&type=m3u_plus
+http://skynetmax.live:8080/get.php?username=Kfarrier2&password=JnWBeTnrTs&type=m3u_plus
