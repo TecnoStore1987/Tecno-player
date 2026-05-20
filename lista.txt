@@ -1,2 +1,2 @@
-http://smarterstv99.dyndns.tv:25461/get.php?username=nanovic10&password=hDjbYHYnr9yt&type=m3u_plus
-http://skynetmax.live:8080/get.php?username=Kfarrier2&password=JnWBeTnrTs&type=m3u_plus
+http://streamingtv.vip:80/get.php?username=12MPremiumSep22&password=GswvTRBXTB&type=m3u_plus
+http://vodlat.top:80/get.php?username=Rambito&password=JCCkQ2Ornt&type=m3u_plus
