@@ -1,2 +1,3 @@
 http://redworld.pro:8880/get.php?username=pdQwRDv8eba5&password=jy67M3hur7Xj&type=m3u_plus
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/mundial_2026.m3u
+https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/ARGENTINA.m3u
