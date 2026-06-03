@@ -1,206 +1,153 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="AR TV Publica" tvg-logo="https://static.realiptv.to/snapshots/1610.jpg" group-title="ARGENTINA",AR TV Publica
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1610
-#EXTINF:-1 tvg-id="" tvg-name="AR A&E" tvg-logo="https://static.realiptv.to/snapshots/2828.jpg" group-title="ARGENTINA",AR A&E
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2828
-#EXTINF:-1 tvg-id="" tvg-name="AR AMERICA" tvg-logo="https://static.realiptv.to/snapshots/2831.jpg" group-title="ARGENTINA",AR AMERICA
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2831
-#EXTINF:-1 tvg-id="" tvg-name="AR AMC" tvg-logo="https://static.realiptv.to/snapshots/2829.jpg" group-title="ARGENTINA",AR AMC
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2829
-#EXTINF:-1 tvg-id="" tvg-name="AR AMERICA_24" tvg-logo="https://static.realiptv.to/snapshots/2830.jpg" group-title="ARGENTINA",AR AMERICA_24
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2830
-#EXTINF:-1 tvg-id="" tvg-name="AR BABY_TV" tvg-logo="https://static.realiptv.to/snapshots/2834.jpg" group-title="ARGENTINA",AR BABY_TV
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2834
-#EXTINF:-1 tvg-id="" tvg-name="AR BOOMERANG" tvg-logo="https://static.realiptv.to/snapshots/2835.jpg" group-title="ARGENTINA",AR BOOMERANG
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2835
-#EXTINF:-1 tvg-id="" tvg-name="AR C5N" tvg-logo="https://static.realiptv.to/snapshots/2836.jpg" group-title="ARGENTINA",AR C5N
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2836
-#EXTINF:-1 tvg-id="" tvg-name="AR CANAL_13" tvg-logo="https://static.realiptv.to/snapshots/2837.jpg" group-title="ARGENTINA",AR CANAL_13
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2837
-#EXTINF:-1 tvg-id="" tvg-name="AR CANAL_26" tvg-logo="https://static.realiptv.to/snapshots/2839.jpg" group-title="ARGENTINA",AR CANAL_26
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2839
-#EXTINF:-1 tvg-id="" tvg-name="AR CANAL_9" tvg-logo="https://static.realiptv.to/snapshots/2840.jpg" group-title="ARGENTINA",AR CANAL_9
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2840
-#EXTINF:-1 tvg-id="" tvg-name="AR CANAL DE LA MUSICA" tvg-logo="https://static.realiptv.to/snapshots/2841.jpg" group-title="ARGENTINA",AR CANAL DE LA MUSICA
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2841
-#EXTINF:-1 tvg-id="" tvg-name="AR CARTOON NETWORK" tvg-logo="https://static.realiptv.to/snapshots/2843.jpg" group-title="ARGENTINA",AR CARTOON NETWORK
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2843
-#EXTINF:-1 tvg-id="" tvg-name="AR CINEAR" tvg-logo="https://static.realiptv.to/snapshots/2844.jpg" group-title="ARGENTINA",AR CINEAR
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2844
-#EXTINF:-1 tvg-id="" tvg-name="AR CINECANAL" tvg-logo="https://static.realiptv.to/snapshots/2845.jpg" group-title="ARGENTINA",AR CINECANAL
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2845
-#EXTINF:-1 tvg-id="" tvg-name="AR CINEMAX" tvg-logo="https://static.realiptv.to/snapshots/2846.jpg" group-title="ARGENTINA",AR CINEMAX
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2846
-#EXTINF:-1 tvg-id="" tvg-name="AR CN23" tvg-logo="https://static.realiptv.to/snapshots/2848.jpg" group-title="ARGENTINA",AR CN23
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2848
-#EXTINF:-1 tvg-id="" tvg-name="AR CNN" tvg-logo="https://static.realiptv.to/snapshots/2850.jpg" group-title="ARGENTINA",AR CNN
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2850
-#EXTINF:-1 tvg-id="" tvg-name="AR COMEDY" tvg-logo="https://static.realiptv.to/snapshots/2851.jpg" group-title="ARGENTINA",AR COMEDY
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2851
-#EXTINF:-1 tvg-id="" tvg-name="AR CONEXION" tvg-logo="https://static.realiptv.to/snapshots/2852.jpg" group-title="ARGENTINA",AR CONEXION
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2852
-#EXTINF:-1 tvg-id="" tvg-name="AR CONSTRUIR" tvg-logo="https://static.realiptv.to/snapshots/2853.jpg" group-title="ARGENTINA",AR CONSTRUIR
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2853
-#EXTINF:-1 tvg-id="" tvg-name="AR CRONICA" tvg-logo="https://static.realiptv.to/snapshots/2854.jpg" group-title="ARGENTINA",AR CRONICA
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2854
-#EXTINF:-1 tvg-id="" tvg-name="AR DEPORTV" tvg-logo="https://static.realiptv.to/snapshots/2855.jpg" group-title="ARGENTINA",AR DEPORTV
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2855
-#EXTINF:-1 tvg-id="" tvg-name="AR DISNEY" tvg-logo="https://static.realiptv.to/snapshots/2856.jpg" group-title="ARGENTINA",AR DISNEY
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2856
-#EXTINF:-1 tvg-id="" tvg-name="AR DISNEY JUNIOR" tvg-logo="https://static.realiptv.to/snapshots/2857.jpg" group-title="ARGENTINA",AR DISNEY JUNIOR
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2857
-#EXTINF:-1 tvg-id="" tvg-name="AR DISNEY_XD" tvg-logo="https://static.realiptv.to/snapshots/2858.jpg" group-title="ARGENTINA",AR DISNEY_XD
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2858
-#EXTINF:-1 tvg-id="" tvg-name="AR DW" tvg-logo="https://static.realiptv.to/snapshots/2859.jpg" group-title="ARGENTINA",AR DW
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2859
-#EXTINF:-1 tvg-id="" tvg-name="AR E!" tvg-logo="https://static.realiptv.to/snapshots/2860.jpg" group-title="ARGENTINA",AR E!
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2860
-#EXTINF:-1 tvg-id="" tvg-name="AR ENCUENTRO" tvg-logo="https://static.realiptv.to/snapshots/2861.jpg" group-title="ARGENTINA",AR ENCUENTRO
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2861
-#EXTINF:-1 tvg-id="" tvg-name="AR ESPN Extra" tvg-logo="https://static.realiptv.to/snapshots/2862.jpg" group-title="ARGENTINA",AR ESPN Extra
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2862
-#EXTINF:-1 tvg-id="" tvg-name="AR ESPN 3" tvg-logo="https://static.realiptv.to/snapshots/2864.jpg" group-title="ARGENTINA",AR ESPN 3
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2864
-#EXTINF:-1 tvg-id="" tvg-name="AR ESPN" tvg-logo="https://static.realiptv.to/snapshots/2865.jpg" group-title="ARGENTINA",AR ESPN
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2865
-#EXTINF:-1 tvg-id="" tvg-name="AR EUROPA" tvg-logo="https://static.realiptv.to/snapshots/2866.jpg" group-title="ARGENTINA",AR EUROPA
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2866
-#EXTINF:-1 tvg-id="" tvg-name="AR FILM_&_ARTS" tvg-logo="https://static.realiptv.to/snapshots/2867.jpg" group-title="ARGENTINA",AR FILM_&_ARTS
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2867
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX" tvg-logo="https://static.realiptv.to/snapshots/2868.jpg" group-title="ARGENTINA",AR FOX
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2868
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_LIFE" tvg-logo="https://static.realiptv.to/snapshots/2869.jpg" group-title="ARGENTINA",AR FOX_LIFE
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2869
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_NEWS" tvg-logo="https://static.realiptv.to/snapshots/2870.jpg" group-title="ARGENTINA",AR FOX_NEWS
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2870
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_PREMIUM_ACTION" tvg-logo="https://static.realiptv.to/snapshots/2871.jpg" group-title="ARGENTINA",AR FOX_PREMIUM_ACTION
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2871
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_PREMIUM_CINEMA" tvg-logo="https://static.realiptv.to/snapshots/2872.jpg" group-title="ARGENTINA",AR FOX_PREMIUM_CINEMA
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2872
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_PREMIUM_CLASSICS" tvg-logo="https://static.realiptv.to/snapshots/2873.jpg" group-title="ARGENTINA",AR FOX_PREMIUM_CLASSICS
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2873
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_PREMIUM_COMEDY" tvg-logo="https://static.realiptv.to/snapshots/2874.jpg" group-title="ARGENTINA",AR FOX_PREMIUM_COMEDY
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2874
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_PREMIUM_FAMILY" tvg-logo="https://static.realiptv.to/snapshots/2875.jpg" group-title="ARGENTINA",AR FOX_PREMIUM_FAMILY
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2875
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_PREMIUM_SERIES" tvg-logo="https://static.realiptv.to/snapshots/2878.jpg" group-title="ARGENTINA",AR FOX_PREMIUM_SERIES
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2878
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_SPORTS_2_HD" tvg-logo="https://static.realiptv.to/snapshots/2880.jpg" group-title="ARGENTINA",AR FOX_SPORTS_2_HD
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2880
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_SPORTS_3_HD" tvg-logo="https://static.realiptv.to/snapshots/2881.jpg" group-title="ARGENTINA",AR FOX_SPORTS_3_HD
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2881
-#EXTINF:-1 tvg-id="" tvg-name="AR FOX_SPORTS_HD" tvg-logo="https://static.realiptv.to/snapshots/2882.jpg" group-title="ARGENTINA",AR FOX_SPORTS_HD
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2882
-#EXTINF:-1 tvg-id="" tvg-name="AR FOXSP_PREMIUM_HD" tvg-logo="https://static.realiptv.to/snapshots/2883.jpg" group-title="ARGENTINA",AR FOXSP_PREMIUM_HD
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2883
-#EXTINF:-1 tvg-id="" tvg-name="AR FX" tvg-logo="https://static.realiptv.to/snapshots/2884.jpg" group-title="ARGENTINA",AR FX
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2884
-#EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="https://static.realiptv.to/snapshots/2888.jpg" group-title="ARGENTINA",AR GOLF
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2888
-#EXTINF:-1 tvg-id="" tvg-name="AR H2" tvg-logo="https://static.realiptv.to/snapshots/2890.jpg" group-title="ARGENTINA",AR H2
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2890
-#EXTINF:-1 tvg-id="" tvg-name="AR HBO 2" tvg-logo="https://static.realiptv.to/snapshots/2891.jpg" group-title="ARGENTINA",AR HBO 2
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2891
-#EXTINF:-1 tvg-id="" tvg-name="AR HBO FAMILY ESTES" tvg-logo="https://static.realiptv.to/snapshots/2892.jpg" group-title="ARGENTINA",AR HBO FAMILY ESTES
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2892
-#EXTINF:-1 tvg-id="" tvg-name="AR HBO" tvg-logo="https://static.realiptv.to/snapshots/2893.jpg" group-title="ARGENTINA",AR HBO
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2893
-#EXTINF:-1 tvg-id="" tvg-name="AR HBO PLUS ESTE" tvg-logo="https://static.realiptv.to/snapshots/2894.jpg" group-title="ARGENTINA",AR HBO PLUS ESTE
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2894
-#EXTINF:-1 tvg-id="" tvg-name="AR HBO SIGNATURE" tvg-logo="https://static.realiptv.to/snapshots/2895.jpg" group-title="ARGENTINA",AR HBO SIGNATURE
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2895
-#EXTINF:-1 tvg-id="" tvg-name="AR HCDN" tvg-logo="https://static.realiptv.to/snapshots/2896.jpg" group-title="ARGENTINA",AR HCDN
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2896
-#EXTINF:-1 tvg-id="" tvg-name="AR HISTORY" tvg-logo="https://static.realiptv.to/snapshots/2897.jpg" group-title="ARGENTINA",AR HISTORY
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2897
-#EXTINF:-1 tvg-id="" tvg-name="AR HTV" tvg-logo="https://static.realiptv.to/snapshots/2898.jpg" group-title="ARGENTINA",AR HTV
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2898
-#EXTINF:-1 tvg-id="" tvg-name="AR I-SAT" tvg-logo="https://static.realiptv.to/snapshots/2899.jpg" group-title="ARGENTINA",AR I-SAT
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2899
-#EXTINF:-1 tvg-id="" tvg-name="AR LIFETIME" tvg-logo="https://static.realiptv.to/snapshots/2900.jpg" group-title="ARGENTINA",AR LIFETIME
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2900
-#EXTINF:-1 tvg-id="" tvg-name="AR LN MAS" tvg-logo="https://static.realiptv.to/snapshots/2901.jpg" group-title="ARGENTINA",AR LN MAS
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2901
-#EXTINF:-1 tvg-id="" tvg-name="AR MAS_CHIC" tvg-logo="https://static.realiptv.to/snapshots/2902.jpg" group-title="ARGENTINA",AR MAS_CHIC
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2902
-#EXTINF:-1 tvg-id="" tvg-name="AR MAX_PRIME" tvg-logo="https://static.realiptv.to/snapshots/2903.jpg" group-title="ARGENTINA",AR MAX_PRIME
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2903
-#EXTINF:-1 tvg-id="" tvg-name="AR MAX" tvg-logo="https://static.realiptv.to/snapshots/2904.jpg" group-title="ARGENTINA",AR MAX
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2904
-#EXTINF:-1 tvg-id="" tvg-name="AR MAX_UP" tvg-logo="https://static.realiptv.to/snapshots/2905.jpg" group-title="ARGENTINA",AR MAX_UP
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2905
-#EXTINF:-1 tvg-id="" tvg-name="AR METRO" tvg-logo="https://static.realiptv.to/snapshots/2906.jpg" group-title="ARGENTINA",AR METRO
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2906
-#EXTINF:-1 tvg-id="" tvg-name="AR MTV" tvg-logo="https://static.realiptv.to/snapshots/2907.jpg" group-title="ARGENTINA",AR MTV
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2907
-#EXTINF:-1 tvg-id="" tvg-name="AR MTV_HITS" tvg-logo="https://static.realiptv.to/snapshots/2908.jpg" group-title="ARGENTINA",AR MTV_HITS
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2908
-#EXTINF:-1 tvg-id="" tvg-name="AR MUCH_MUSIC" tvg-logo="https://static.realiptv.to/snapshots/2909.jpg" group-title="ARGENTINA",AR MUCH_MUSIC
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2909
-#EXTINF:-1 tvg-id="" tvg-name="AR MUSIC_TOP" tvg-logo="https://static.realiptv.to/snapshots/2910.jpg" group-title="ARGENTINA",AR MUSIC_TOP
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2910
-#EXTINF:-1 tvg-id="" tvg-name="AR NAT_GEO" tvg-logo="https://static.realiptv.to/snapshots/2911.jpg" group-title="ARGENTINA",AR NAT_GEO
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2911
-#EXTINF:-1 tvg-id="" tvg-name="AR NAT_GEO_WILD" tvg-logo="https://static.realiptv.to/snapshots/2912.jpg" group-title="ARGENTINA",AR NAT_GEO_WILD
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2912
-#EXTINF:-1 tvg-id="" tvg-name="AR NATGEO_KIDS" tvg-logo="https://static.realiptv.to/snapshots/2913.jpg" group-title="ARGENTINA",AR NATGEO_KIDS
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2913
-#EXTINF:-1 tvg-id="" tvg-name="AR NICKELODEON" tvg-logo="https://static.realiptv.to/snapshots/2914.jpg" group-title="ARGENTINA",AR NICKELODEON
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2914
-#EXTINF:-1 tvg-id="" tvg-name="AR NICKELODEON_JR" tvg-logo="https://static.realiptv.to/snapshots/2915.jpg" group-title="ARGENTINA",AR NICKELODEON_JR
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2915
-#EXTINF:-1 tvg-id="" tvg-name="AR PARAMOUNT" tvg-logo="https://static.realiptv.to/snapshots/2917.jpg" group-title="ARGENTINA",AR PARAMOUNT
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2917
-#EXTINF:-1 tvg-id="" tvg-name="AR SYFY" tvg-logo="https://static.realiptv.to/snapshots/2925.jpg" group-title="ARGENTINA",AR SYFY
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2925
-#EXTINF:-1 tvg-id="76739" tvg-name="AR TELEMUNDO" tvg-logo="https://static.realiptv.to/snapshots/2930.jpg" group-title="ARGENTINA",AR TELEMUNDO
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2930
-#EXTINF:-1 tvg-id="" tvg-name="AR TELESUR" tvg-logo="https://static.realiptv.to/snapshots/2931.jpg" group-title="ARGENTINA",AR TELESUR
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2931
-#EXTINF:-1 tvg-id="" tvg-name="AR TN" tvg-logo="https://static.realiptv.to/snapshots/2933.jpg" group-title="ARGENTINA",AR TN
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2933
-#EXTINF:-1 tvg-id="" tvg-name="AR TNT" tvg-logo="https://static.realiptv.to/snapshots/2934.jpg" group-title="ARGENTINA",AR TNT
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2934
-#EXTINF:-1 tvg-id="" tvg-name="AR TNT_SERIES" tvg-logo="https://static.realiptv.to/snapshots/2935.jpg" group-title="ARGENTINA",AR TNT_SERIES
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2935
-#EXTINF:-1 tvg-id="" tvg-name="AR TRUTV" tvg-logo="https://static.realiptv.to/snapshots/2938.jpg" group-title="ARGENTINA",AR TRUTV
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2938
-#EXTINF:-1 tvg-id="" tvg-name="AR TV_PUBLICA" tvg-logo="https://static.realiptv.to/snapshots/2939.jpg" group-title="ARGENTINA",AR TV_PUBLICA
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2939
-#EXTINF:-1 tvg-id="" tvg-name="AR TYC_SPORTS" tvg-logo="https://static.realiptv.to/snapshots/2942.jpg" group-title="ARGENTINA",AR TYC_SPORTS
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2942
-#EXTINF:-1 tvg-id="" tvg-name="AR UNIVERSAL CINEMA" tvg-logo="https://static.realiptv.to/snapshots/2943.jpg" group-title="ARGENTINA",AR UNIVERSAL CINEMA
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2943
-#EXTINF:-1 tvg-id="" tvg-name="AR VH1" tvg-logo="https://static.realiptv.to/snapshots/2945.jpg" group-title="ARGENTINA",AR VH1
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2945
-#EXTINF:-1 tvg-id="" tvg-name="AR VOLVER" tvg-logo="https://static.realiptv.to/snapshots/2946.jpg" group-title="ARGENTINA",AR VOLVER
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2946
-#EXTINF:-1 tvg-id="" tvg-name="AR WARNER_TV" tvg-logo="https://static.realiptv.to/snapshots/2947.jpg" group-title="ARGENTINA",AR WARNER_TV
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/2947
-#EXTINF:-1 tvg-id="" tvg-name="AR Warner Channel" tvg-logo="https://static.realiptv.to/snapshots/1670.jpg" group-title="ARGENTINA",AR Warner Channel
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1670
-#EXTINF:-1 tvg-id="" tvg-name="AR Universal Reality" tvg-logo="https://static.realiptv.to/snapshots/1669.jpg" group-title="ARGENTINA",AR Universal Reality
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1669
-#EXTINF:-1 tvg-id="" tvg-name="AR Universal" tvg-logo="https://static.realiptv.to/snapshots/1668.jpg" group-title="ARGENTINA",AR Universal
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1668
-#EXTINF:-1 tvg-id="" tvg-name="AR Universal Comedy" tvg-logo="https://static.realiptv.to/snapshots/1639.jpg" group-title="ARGENTINA",AR Universal Comedy
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1639
-#EXTINF:-1 tvg-id="" tvg-name="AR ESPN 2" tvg-logo="https://static.realiptv.to/snapshots/1636.jpg" group-title="ARGENTINA",AR ESPN 2
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1636
-#EXTINF:-1 tvg-id="" tvg-name="AR Cinemax" tvg-logo="https://static.realiptv.to/snapshots/1624.jpg" group-title="ARGENTINA",AR Cinemax
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1624
-#EXTINF:-1 tvg-id="" tvg-name="AR Cinecanal" tvg-logo="https://static.realiptv.to/snapshots/1622.jpg" group-title="ARGENTINA",AR Cinecanal
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1622
-#EXTINF:-1 tvg-id="" tvg-name="AR AXN" tvg-logo="https://static.realiptv.to/snapshots/1615.jpg" group-title="ARGENTINA",AR AXN
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1615
-#EXTINF:-1 tvg-id="" tvg-name="AR C5N" tvg-logo="https://static.realiptv.to/snapshots/1605.jpg" group-title="ARGENTINA",AR C5N
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1605
-#EXTINF:-1 tvg-id="" tvg-name="AR  America TV" tvg-logo="https://static.realiptv.to/snapshots/1604.jpg" group-title="ARGENTINA",AR  America TV
-https://restream-live.realiptv.to/Davenport/c9074e1fb0/1604
-#EXTINF:-1 tvg-id="AR TELEFE" tvg-name="AR: Telefe HD" tvg-logo="" group-title="Argentina",AR: Telefe HD
-http://iptv.deluxeplay.live:80/live/chajnwae/9g3jYxlF03/1522.ts
-#EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="AR: Telefe HD *" tvg-logo="" group-title="Argentina",AR: Telefe HD *
-http://iptv.deluxeplay.live:80/live/chajnwae/9g3jYxlF03/1524.ts
-#EXTINF:-1 tvg-id="NODATA" tvg-name="AR: Telefe HD **" tvg-logo="" group-title="Argentina",AR: Telefe HD **
-http://iptv.deluxeplay.live:80/live/chajnwae/9g3jYxlF03/13736.ts
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN (Todo Noticias)" tvg-logo="https://periodismobasavilbaso.com/wp-content/uploads/2023/05/1200px-TN_todo_noticias_logo.svg_.png" group-title="ARGENTINA",TN (Todo Noticias)
+http://streamprostk.com:2082/stkospa/8529/138118
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/02/A24-Logo-2025.png" group-title="ARGENTINA",A24
+http://streamprostk.com:2082/stkospa/8529/2339
+#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-name="LN+ La Nación" tvg-logo="https://i.postimg.cc/W3cHHNd9/lnplus.png" group-title="ARGENTINA",LN+ La Nación
+http://streamprostk.com:2082/stkospa/8529/2344
+#EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="Canal 26" tvg-logo="https://ibyme.org.ar/wp-content/uploads/2023/05/26-noticias.png" group-title="ARGENTINA",Canal 26
+http://streamprostk.com:2082/stkospa/8529/1891
+#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-name="Crónica" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png" group-title="ARGENTINA",Crónica
+http://streamprostk.com:2082/stkospa/8529/2342
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",C5N
+http://streamprostk.com:2082/stkospa/8529/2340
+#EXTINF:-1 tvg-id="IP noticias.ar" tvg-name="Argentina 12" tvg-logo="https://www.totalmedios.com/img/noticias/2025/11/691107e84fdd3_838x390.jpg" group-title="ARGENTINA",Argentina 12
+http://streamprostk.com:2082/stkospa/8529/137389
+#EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="ARGENTINA",America TV
+http://streamprostk.com:2082/stkospa/8529/6989
+#EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-name="America TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="ARGENTINA",America TV HD
+http://streamprostk.com:2082/stkospa/8529/2345
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-name="El Nueve" tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png" group-title="ARGENTINA",El Nueve
+http://streamprostk.com:2082/stkospa/8529/2346
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-name="El Nueve HD" tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png" group-title="ARGENTINA",El Nueve HD
+http://streamprostk.com:2082/stkospa/8529/6987
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-name="El Trece" tvg-logo="https://4.bp.blogspot.com/-qbC3LvpmKVM/Ufm9YzqCi6I/AAAAAAAAAJw/CHVpYurVoMI/s1600/Logo_Canal_Trece_actual1.png" group-title="ARGENTINA",El Trece
+http://streamprostk.com:2082/stkospa/8529/6988
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-name="El Trece HD" tvg-logo="https://4.bp.blogspot.com/-qbC3LvpmKVM/Ufm9YzqCi6I/AAAAAAAAAJw/CHVpYurVoMI/s1600/Logo_Canal_Trece_actual1.png" group-title="ARGENTINA",El Trece HD
+http://streamprostk.com:2082/stkospa/8529/2347
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE
+http://streamprostk.com:2082/stkospa/8529/6986
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-name="TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE HD
+http://streamprostk.com:2082/stkospa/8529/2348
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="ARGENTINA",TV Publica
+http://streamprostk.com:2082/stkospa/8529/166
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-name="TV Publica HD" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="ARGENTINA",TV Publica HD
+http://streamprostk.com:2082/stkospa/8529/167
+#EXTINF:-1 tvg-id="NET TV.ar" tvg-name="NET TV HD" tvg-logo="https://cdn.m3u.cl/logo/493_Net_TV.png" group-title="ARGENTINA",NET TV HD
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CINEARTV.ar" tvg-name="CineAR" tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="ARGENTINA",CineAR
+http://streamprostk.com:2082/stkospa/8529/2349
+#EXTINF:-1 tvg-id="" tvg-name="Viajar TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_viajar_m.png" group-title="ARGENTINA",Viajar TV
+http://streamprostk.com:2082/stkospa/8529/138006
+#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-name="DeporTV Argentina" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png" group-title="ARGENTINA",DeporTV Argentina
+http://streamprostk.com:2082/stkospa/8529/164
+#EXTINF:-1 tvg-id="EL GARAGE.ar" tvg-name="Garage TV" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790028_El_garage.png" group-title="ARGENTINA",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bayres TV" tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png" group-title="ARGENTINA",Bayres TV
+http://streamprostk.com:2082/stkospa/8529/75078
+#EXTINF:-1 tvg-id="TELEMAX.ar" tvg-name="Telemax HD" tvg-logo="https://i.postimg.cc/t44v6WW9/Telemax.png" group-title="ARGENTINA",Telemax HD
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png" group-title="ARGENTINA",Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22 Web - Buenos Aires" tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/logo-canal-22-letras-blancas-xs.png" group-title="ARGENTINA",Canal 22 Web - Buenos Aires
+http://streamprostk.com:2082/stkospa/8529/51992
+#EXTINF:-1 tvg-id="ARGENTINISIMA.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/argentinisimasatelital-profile_image-9aa9b79bfdfe6068-300x300.jpeg" group-title="ARGENTINA",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CPE TV" tvg-logo="https://yt3.ggpht.com/a-/AN66SAyZxChYuXCH1F_ctKSB72DEf6oU7_ZXPZ9lpQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="ARGENTINA",CPE TV
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaco TV" tvg-logo="https://image.winudf.com/v2/image/Y29tLmVjb20uY2hhY290dl9pY29uXzE1MTk2OTYyOTBfMDYw/icon.png?w=170&fakeurl=1&type=.png" group-title="ARGENTINA",Chaco TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Provincial - Bs.As." tvg-logo="http://canalprovincial.com/wp-content/themes/canalprovincia/images/footer.png" group-title="ARGENTINA",Canal Provincial - Bs.As.
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24-7 Noticias - Neuquén" tvg-logo="https://www.cn247.tv/img/logo.png" group-title="ARGENTINA",24-7 Noticias - Neuquén
+https://59c5c86e10038.streamlock.net/6605140/6605140/chunklist_w472204508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTN Neuquén" tvg-logo="http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png" group-title="ARGENTINA",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aire - Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png" group-title="ARGENTINA",Aire - Santa Fe
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somos La Pampa" tvg-logo="https://cdn.m3u.cl/logo/1072_Somos_La_Pampa.png" group-title="ARGENTINA",Somos La Pampa
+http://streamprostk.com:2082/stkospa/8529/75202
+#EXTINF:-1 tvg-id="" tvg-name="Litus TV - Santa Fe" tvg-logo="https://yt3.ggpht.com/a-/AN66SAyCzjehM_QO5Z1-EpTFLN_--k7dJhCvDuiDog=s900-mo-c-c0xffffffff-rj-k-no" group-title="ARGENTINA",Litus TV - Santa Fe
+http://arcast.com.ar:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TDC TV - Santa Fe" tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="ARGENTINA",TDC TV - Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/smil:tdconline.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power HD - Pinamar" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="ARGENTINA",Power HD - Pinamar
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Telpin - Pinamar" tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",Canal 2 Telpin - Pinamar
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 - Formosa" tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="ARGENTINA",Canal 3 - Formosa
+http://streamprostk.com:2082/stkospa/8529/173
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 - Pinamar" tvg-logo="https://yt3.ggpht.com/a-/AN66SAzbSEtTNz0DswfRiIUk_GoXBS2_1Hqbmq5CIQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="ARGENTINA",Canal 3 - Pinamar
+http://streamprostk.com:2082/stkospa/8529/183
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - Esquel" tvg-logo="http://www.canal4tv.net/assets/images/canal4-233x128.jpg" group-title="ARGENTINA",Canal 4 - Esquel
+http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - Jujuy" tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="ARGENTINA",Canal 4 - Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 BVC - Bahía Blanca" tvg-logo="http://cablenoticias.com.ar/wp-content/themes/news-mix-lite/images/logoC4.png" group-title="ARGENTINA",Canal 4 BVC - Bahía Blanca
+https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8?dvr_window_length=60
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="ARGENTINA",Canal 4 - Posadas
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 - Moreno" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5jYW5hbDZtb3Jlbm9hcHBva19zY3JlZW5fM18xNTUxMjA4MjkzXzAzMg/screen-3.jpg?fakeurl=1&type=.jpg" group-title="ARGENTINA",Canal 6 - Moreno
+http://streaming.arcast.com.ar:1935/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 - Catamarca" tvg-logo="http://catamarcartv.com/wp-content/uploads/2013/11/Logo-canal-Nosotros.png" group-title="ARGENTINA",Canal 7 - Catamarca
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 - Jujuy" tvg-logo="https://cdn.m3u.cl/logo/264_Canal_7_Jujuy.png" group-title="ARGENTINA",Canal 7 - Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral - Entre Ríos" tvg-logo="http://fatpren.org.ar/wp-content/uploads/2017/04/canal9-240417.jpg" group-title="ARGENTINA",Canal 9 Litoral - Entre Ríos
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Multivisión - Salta" tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA",Canal 9 Multivisión - Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 - Córdoba" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="ARGENTINA",Canal 10 - Córdoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 - Río Negro" tvg-logo="https://lh3.googleusercontent.com/jlRhaWLvnAjzr7XgcUvsNXYFYlwiQ7c2P9AR7UPyC-zG-XnOuZo6kxbJoml0hsWVnA=s180" group-title="ARGENTINA",Canal 10 - Río Negro
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 - Salta" tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png" group-title="ARGENTINA",Canal 10 - Salta
+https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 Lapacho - Formosa" tvg-logo="https://www.lapachotv.com.ar/wp-content/uploads/2018/04/marca_web_1.png" group-title="ARGENTINA",Canal 11 Lapacho - Formosa
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 12 - Madryn TV" tvg-logo="https://4.bp.blogspot.com/-_1R4AhZ0Wj8/TsUMruA9iJI/AAAAAAAAV2w/6MSs421aY98/s1600/logocanal12.png" group-title="ARGENTINA",Canal 12 - Madryn TV
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 - La Rioja" tvg-logo="https://pbs.twimg.com/profile_images/527086915544027139/U_NBWuTA_400x400.jpeg" group-title="ARGENTINA",Canal 13 - La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Max - Corrientes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="ARGENTINA",Canal 13 Max - Corrientes
+http://streamprostk.com:2082/stkospa/8529/157
+#EXTINF:-1 tvg-id="" tvg-name="Cadena 103" tvg-logo="http://arcast.com.ar/cadena103/wp-content/uploads/2017/07/logofoot.png" group-title="ARGENTINA",Cadena 103
+http://streamprostk.com:2082/stkospa/8529/30356
+#EXTINF:-1 tvg-id="" tvg-name="Quatro TV" tvg-logo="https://cdn.m3u.cl/logo/286_Quatro_TV.png" group-title="ARGENTINA",Quatro TV
+http://streamprostk.com:2082/stkospa/8529/75190
+#EXTINF:-1 tvg-id="" tvg-name="Canal 50 Morteros" tvg-logo="https://canal50.tv/public/images/logos/CANAL50_HDBLANCO.png" group-title="ARGENTINA",Canal 50 Morteros
+http://streamprostk.com:2082/stkospa/8529/30357
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad TV" tvg-logo="https://www.ciudadtv.ar/storage/2023/04/Redes-Base-CiudadTV-05-222x82.png" group-title="ARGENTINA",Ciudad TV
+http://streamprostk.com:2082/stkospa/8529/30358
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Telecondor" tvg-logo="https://i.postimg.cc/tTY6Cgy5/condor.jpg" group-title="ARGENTINA",Canal 4 Telecondor
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gen TV (CABA)" tvg-logo="https://i.postimg.cc/xCZ3zMHQ/gen-caba.jpg" group-title="ARGENTINA",Gen TV (CABA)
+http://streamprostk.com:2082/stkospa/8529/37488
+#EXTINF:-1 tvg-id="" tvg-name="Milennio TV" tvg-logo="https://i.postimg.cc/nzJcLsyF/milenn.jpg" group-title="ARGENTINA",Milennio TV
+http://streamprostk.com:2082/stkospa/8529/49552
+#EXTINF:-1 tvg-id="" tvg-name="Canal 79 Mar del Plata" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/canal79-logo-300x300.jpg" group-title="ARGENTINA",Canal 79 Mar del Plata
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="" group-title="ARGENTINA",5TV
+http://streamprostk.com:2082/stkospa/8529/51985
+#EXTINF:-1 tvg-id="" tvg-name="Nortevision" tvg-logo="https://www.nortevision.es/wp-content/uploads/cropped-FACEBOOKK-VINETA-v7.png" group-title="ARGENTINA",Nortevision
+http://streamprostk.com:2082/stkospa/8529/51986
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy" tvg-logo="" group-title="ARGENTINA",Canal 13 Jujuy
+http://streamprostk.com:2082/stkospa/8529/51987
+#EXTINF:-1 tvg-id="" tvg-name="Canal 20 Villamaria" tvg-logo="" group-title="ARGENTINA",Canal 20 Villamaria
+http://streamprostk.com:2082/stkospa/8529/51990
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 TV" tvg-logo="" group-title="ARGENTINA",Canal 21 TV
+http://streamprostk.com:2082/stkospa/8529/51991
+#EXTINF:-1 tvg-id="" tvg-name="San Luis+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/San_Luis_%2B_%28Logo_2024%29.png" group-title="ARGENTINA",San Luis+
+http://streamprostk.com:2082/stkospa/8529/79890
+#EXTINF:-1 tvg-id="CANAL 9 TELEVIDA.ar" tvg-name="Canal 9 Televida | Mendoza" tvg-logo="https://cdn.m3u.cl/logo/309_Canal_9_Televida.png" group-title="ARGENTINA",Canal 9 Televida | Mendoza
+http://streamprostk.com:2082/stkospa/8529/75130
+#EXTINF:-1 tvg-id="" tvg-name="Agofa TV - Rosario" tvg-logo="https://agofatv.com.ar/wp-content/uploads/2024/09/AGOFA_TV.png" group-title="ARGENTINA",Agofa TV - Rosario
+http://streamprostk.com:2082/stkospa/8529/81935
+#EXTINF:-1 tvg-id="" tvg-name="Neo TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA",Neo TV
+http://streamprostk.com:2082/stkospa/8529/69881
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://www.cadenametro.com.ar/storage/multimedios/April2025/wLfqZReeQRImBGe1wfBJ.jpeg" group-title="ARGENTINA",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ver TV" tvg-logo="https://cdn.m3u.cl/logo/1374_Ver_TV.png" group-title="ARGENTINA",Ver TV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
