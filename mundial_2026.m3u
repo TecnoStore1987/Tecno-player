@@ -20,3 +20,12 @@ http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/490458
 
 #EXTINF:-1 tvg-name="DIRECTV SPORTS" group-title="01 - MUNDIAL 2026",DIRECTV SPORTS
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/428666
+
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 1" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",EVENTO 1
+http://dplatino.net:80//live/3MPremNadiaP25/K2Vqw6F9fj7j/540041.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 2" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",EVENTO 2
+http://dplatino.net:80//live/3MPremNadiaP25/K2Vqw6F9fj7j/540038.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 3" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",EVENTO 3
+http://dplatino.net:80//live/3MPremNadiaP25/K2Vqw6F9fj7j/540035.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 4" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",EVENTO 4
+http://dplatino.net:80//live/3MPremNadiaP25/K2Vqw6F9fj7j/540026.ts
