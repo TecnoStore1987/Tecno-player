@@ -2,4 +2,4 @@ https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/mu
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/ARGENTINA%201.m3u
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/DEPORTES_ARGENTINA.m3u
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/cine_premium.m3u
-http://redworld.pro:8880/get.php?username=56974081590w&password=A8TsKszFcs6n&type=m3u_plus
+http://planettvweb.com:8091/get.php?username=JavierF&password=MTud4392p&type=m3u_plus
