@@ -1,0 +1,7 @@
+{
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/TecnoPlayer/TecnoPlayerIPTV-v1.6-release.apk",
+  "sha256": "1C8849E2FC8ACE117D306B519B2472B7261ADFB31C13BD3A704F031F323132BA",
+  "notes": "Catalogo Room paginado para listas grandes, cache local optimizado, cambio automatico de fuente y diagnosticos de reproduccion sin credenciales."
+}
