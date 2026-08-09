@@ -1,3 +1,3 @@
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/ARGENTINA%201.m3u
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/cine_premium.m3u
-http://zona593movie.com:2086/get.php?username=aldo2024&password=7LN5SMFkBQMT&type=m3u_plus
+https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/peliculas%20y%20series.m3u
