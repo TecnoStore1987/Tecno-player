@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "refreshHours": 12,
+  "sources": [
+    "https://raw.githubusercontent.com/globetvapp/epg/main/Argentina/argentina1.xml.gz",
+    "https://raw.githubusercontent.com/globetvapp/epg/main/Argentina/argentina2.xml.gz",
+    "https://raw.githubusercontent.com/globetvapp/epg/main/Argentina/argentina3.xml.gz",
+    "https://raw.githubusercontent.com/globetvapp/epg/main/Argentina/argentina4.xml.gz",
+    "https://raw.githubusercontent.com/globetvapp/epg/main/Argentina/argentina5.xml.gz"
+  ]
+}
