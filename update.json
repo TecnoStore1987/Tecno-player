@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.9/TecnoPlayerIPTV-v1.9-release.apk",
-  "sha256": "7F7EF23B0E659D2E02FC937A32A0B7E08238EFC031BBA862ED765DE9DCC426CF",
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.10/TecnoPlayerIPTV-v1.10-release.apk",
+  "sha256": "0E6A701D6878383B8A2B9F781F962E7E26F8D7601346B6FB54E5DBA853E06DE2",
   "mandatory": false,
-  "notes": "Catalogo tipo Netflix, series agrupadas por temporadas y capitulos, mejoras responsive para celulares, categorias de TV prioritarias, banner para Android TV y actualizador recuperable."
+  "notes": "Nueva vista de TV en vivo con tarjetas de programacion, programa actual, proximo programa y barra de progreso. EPG XMLTV externa administrada desde GitHub, cache y coincidencia automatica por tvg-id o nombre."
 }
