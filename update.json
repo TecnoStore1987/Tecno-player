@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.11/TecnoPlayerIPTV-v1.11-release.apk",
-  "sha256": "A51B07750ACF217939A592C96F8660FA1F037204D5E7BB1270A0036A8692FCAB",
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.13/TecnoPlayerIPTV-v1.13-release.apk",
+  "sha256": "1450E20109290488A08867FE0708FBDF342288C0635E643DA88CF6DD7E181524",
   "mandatory": false,
-  "notes": "Corrige la guia de programacion con fuentes EPG vigentes de Argentina y actualizacion inmediata cuando cambia una fuente en GitHub."
+  "notes": "Nueva informacion EPG discreta en la parte inferior del reproductor. OK muestra el programa actual, progreso, descripcion y siguiente; la lista de canales se abre con flecha izquierda, Guia, Menu o el boton Canales."
 }
