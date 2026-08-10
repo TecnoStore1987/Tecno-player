@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.10/TecnoPlayerIPTV-v1.10-release.apk",
-  "sha256": "0E6A701D6878383B8A2B9F781F962E7E26F8D7601346B6FB54E5DBA853E06DE2",
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.11/TecnoPlayerIPTV-v1.11-release.apk",
+  "sha256": "A51B07750ACF217939A592C96F8660FA1F037204D5E7BB1270A0036A8692FCAB",
   "mandatory": false,
-  "notes": "Nueva vista de TV en vivo con tarjetas de programacion, programa actual, proximo programa y barra de progreso. EPG XMLTV externa administrada desde GitHub, cache y coincidencia automatica por tvg-id o nombre."
+  "notes": "Corrige la guia de programacion con fuentes EPG vigentes de Argentina y actualizacion inmediata cuando cambia una fuente en GitHub."
 }
