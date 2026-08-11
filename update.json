@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.13/TecnoPlayerIPTV-v1.13-release.apk",
-  "sha256": "1450E20109290488A08867FE0708FBDF342288C0635E643DA88CF6DD7E181524",
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.14/TecnoPlayerIPTV-v1.14-release.apk",
+  "sha256": "7551E05357DF8EE3939A912509E19B4C0C5A91947C90C3C12CE466A89828E6FC",
   "mandatory": false,
-  "notes": "Nueva informacion EPG discreta en la parte inferior del reproductor. OK muestra el programa actual, progreso, descripcion y siguiente; la lista de canales se abre con flecha izquierda, Guia, Menu o el boton Canales."
+  "notes": "Restaura el modo liviano de TV en vivo: elimina la descarga y procesamiento de EPG XMLTV externa, reduce consumo de memoria y red, y devuelve OK/toque a la lista de canales de la carpeta."
 }
