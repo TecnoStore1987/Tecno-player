@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.16/TecnoPlayerIPTV-v1.16-release.apk",
-  "sha256": "776B6F798D01DB4C9305DDC715F6A4324B6309D3A74E2C5D5276847B397094FB",
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.17/TecnoPlayerIPTV-v1.17-release.apk",
+  "sha256": "BBE74C46ED5385EDD6D75458DA81257BA8410C5AEDC1CB8982E5F51ACAC419FA",
   "mandatory": false,
-  "notes": "Reorganiza la pantalla inicial para aprovechar todo el ancho, elimina el panel informativo innecesario y evita portadas repetidas entre Recien agregados y Estrenos."
+  "notes": "Corrige la superposicion de elementos en televisores y mantiene la nueva portada organizada en filas, aprovechando todo el ancho disponible."
 }
