@@ -1,3 +1,1 @@
-https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/ARGENTINA%201.m3u
-https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/cine_premium.m3u
-https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/peliculas%20y%20series.m3u
+http://plusgo.online:8080/get.php?username=Martin49&password=Silvera49&type=m3u_plus
