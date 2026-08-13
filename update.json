@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.21/TecnoPlayerIPTV-v1.21-release.apk",
-  "sha256": "02D88CF7160A9C78B154F87A5AC59AE80A91FB65A76C647E508C1B4E2062C11F",
+  "vers{\nionCode": 23,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.22/TecnoPlayerIPTV-v1.22-release.apk",
+  "sha256": "34F8B5711B8E927F43E6DFE9CD0D45217124F1ABCC45268CC67023A312FE67ED",
   "mandatory": false,
-  "notes": "Corrige el tamano de la vista previa de TV en vivo con un panel de video 16:9 estable. Seleccionar canales cambia la vista previa y no abre la pantalla completa."
+  "notes": "Al abrir TV en pantalla completa se detiene y libera la vista previa, evitando audio duplicado, doble conexion y consumo innecesario. Al volver se restaura el canal seleccionado."
 }
