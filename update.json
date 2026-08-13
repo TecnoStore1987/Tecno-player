@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.19/TecnoPlayerIPTV-v1.19-release.apk",
-  "sha256": "5E4ABB48FC4518CC1A4D5F4F2E66234343B055F44EE2D80C6435B0EF4D9F8613",
+  "versionCode": 21,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.20/TecnoPlayerIPTV-v1.20-release.apk",
+  "sha256": "D769D8A09A48D4A141150018CB36712F7139F92263193621D8B6296AA99219A2",
   "mandatory": false,
-  "notes": "Corrige la imagen de la vista previa de TV en vivo. Seleccionar un canal ahora cambia solamente la vista previa; la pantalla completa se abre desde el video previo o su boton."
+  "notes": "Corrige la superficie de video de la vista previa en televisores y TV Box. Seleccionar canales cambia la vista previa y la pantalla completa se abre solamente desde el panel previo."
 }
