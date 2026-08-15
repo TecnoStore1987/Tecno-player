@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/ARGENTINA%20FULL.m3u
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/PELICULAS%20FULL.m3u
+https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/SERIES%20FULL.m3u
