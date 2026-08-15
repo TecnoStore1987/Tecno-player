@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.22/TecnoPlayerIPTV-v1.22-release.apk",
-  "sha256": "34F8B5711B8E927F43E6DFE9CD0D45217124F1ABCC45268CC67023A312FE67ED",
+  "versionCode": 24,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.23/TecnoPlayerIPTV-v1.23-release.apk",
+  "sha256": "13A9D3B53E089AC3C991CBB91915A4B0FC942C7BC6A82D0A4F9D6B9979915965",
   "mandatory": false,
-  "notes": "Al abrir TV en pantalla completa se detiene y libera la vista previa, evitando audio duplicado, doble conexion y consumo innecesario. Al volver se restaura el canal seleccionado."
+  "notes": "Mejora la compatibilidad de TV en vivo, corrige reconexiones prematuras y reduce el uso de memoria al cargar catalogos grandes para evitar cierres en equipos modestos."
 }
