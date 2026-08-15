@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/ARGENTINA%201.m3u
+https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/cine_premium.m3u
