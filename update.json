@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.23",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.23/TecnoPlayerIPTV-v1.23-release.apk",
-  "sha256": "13A9D3B53E089AC3C991CBB91915A4B0FC942C7BC6A82D0A4F9D6B9979915965",
+  "versionCode": 25,
+  "versionName": "1.24",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.24/TecnoPlayerIPTV-v1.24-release.apk",
+  "sha256": "48CC1D45360689731DFA75A6CB31F5F02FED3D8890620719533B9B2F51E8393A",
   "mandatory": false,
-  "notes": "Mejora la compatibilidad de TV en vivo, corrige reconexiones prematuras y reduce el uso de memoria al cargar catalogos grandes para evitar cierres en equipos modestos."
+  "notes": "Detecta y reintenta como HLS los canales cuyo servidor no informa correctamente el formato, mejora las reconexiones y reduce el uso de memoria con catalogos grandes."
 }
