@@ -1,7 +1,7 @@
 {
   "versionCode": 30,
   "versionName": "1.29",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.29/TecnoPlayerIPTV-v1.29-release.apk",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.29/TecnoPlayerIPTV-v1.29-release.apk",
   "sha256": "758BE03F420087BFB9F3E8A4CCC7B3E3F8D748704F5BDB4D206F96995269940E",
   "mandatory": false,
   "notes": "Carga sinopsis, reparto, genero, duracion, calificacion y temporadas desde la API Xtream, usando el M3U como respaldo."
