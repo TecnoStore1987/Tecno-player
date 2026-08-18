@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.30",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.30/TecnoPlayerIPTV-v1.30-release.apk",
-  "sha256": "0B1F211E8D2864D3BD8DB3F0F8CCF7EB1A3007DA9AC50EB81A6372BFE3EFFC15",
+  "versionCode": 32,
+  "versionName": "1.31",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.31/TecnoPlayerIPTV-v1.31-release.apk",
+  "sha256": "773DF7BF88AB96A0D545CBD0B5E788CD761FA5545942479B5556A3180DF4CAC6",
   "mandatory": false,
-  "notes": "Corrige el cierre al abrir detalles desde la pantalla principal y agrega vistas exclusivas para Ver todo en Estrenos y Recien agregados."
+  "notes": "Abre los titulos de Inicio mediante el mismo flujo estable de Peliculas y Series para evitar cierres en dispositivos con poca memoria."
 }
