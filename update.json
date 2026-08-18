@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.26/TecnoPlayerIPTV-v1.26-release.apk",
-  "sha256": "4A0BEBBDCBC043AC71BD1E6FD620908F20A53068926B416737A33FD689D518E1",
+  "versionCode": 28,
+  "versionName": "1.27",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/v1.27/TecnoPlayerIPTV-v1.27-release.apk",
+  "sha256": "42CCD36F64BEA18E039F45B4B5C189161C8FFFF7FA201F54355DBB824F0725F9",
   "mandatory": false,
-  "notes": "Mejora la estabilidad de los canales en vivo, elimina reinicios preventivos que causaban cortes, oculta los mensajes de reconexion y permite filtrar cada lista como canales o peliculas y series."
+  "notes": "Corrige la separacion entre peliculas y series, prioriza estrenos y contenido nuevo, repara el buscador de peliculas, evita cambiar canales al mover el foco y restaura el ultimo canal visto."
 }
