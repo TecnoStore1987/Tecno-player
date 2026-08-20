@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.34/TecnoPlayerIPTV-v1.34-release.apk",
-  "sha256": "15B48A00524CF3623D3EB637D0271B2A670814E3422EDF159E02B0AB42ED29AC",
+  "versionCode": 36,
+  "versionName": "1.35",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.35/TecnoPlayerIPTV-v1.35-release.apk",
+  "sha256": "FED4D4D05B7CB6CB0D559A5B844A0475A7E159ACAC2B7A839490B2AC0F7EC641",
   "mandatory": false,
-  "notes": "Mejora la navegacion con control remoto en TV: OK pausa o reproduce, corrige el foco del PIN parental y de la lista de canales, y agrega resaltado visual en menus, filtros, busqueda e historial."
+  "notes": "Mejora el buffer y la reconexion de peliculas y series sin perder la posicion, corrige la navegacion con control remoto en Estrenos y Recien agregados, y estrena el nuevo logo azul de TecnoPlayer."
 }
