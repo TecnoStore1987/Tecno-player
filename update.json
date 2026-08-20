@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.38/TecnoPlayerIPTV-v1.38-release.apk",
-  "sha256": "A992E4ADAE4644BC277C3E156890408C8CAA7F31CDC4FB632A2410EAA7356BEE",
+  "versionCode": 40,
+  "versionName": "1.39",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.39/TecnoPlayerIPTV-v1.39-release.apk",
+  "sha256": "0E96EB1E56A7A28BEFF5CC127D3F3485627B32F0814E6C2EC4D9B423D17B2DAA",
   "mandatory": false,
-  "notes": "Corrige Continuar viendo para reanudar episodios directamente, habilita el foco y OK del control remoto en Siguiente episodio, y reemplaza la sincronizacion automatica por botones separados para actualizar TV, peliculas y series."
+  "notes": "Acelera la conexion y el cambio de canales en TV en vivo con inicio de buffer rapido, reconexion mas agil y conservacion del ultimo cuadro durante el cambio."
 }
