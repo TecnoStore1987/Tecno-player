@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.39/TecnoPlayerIPTV-v1.39-release.apk",
-  "sha256": "0E96EB1E56A7A28BEFF5CC127D3F3485627B32F0814E6C2EC4D9B423D17B2DAA",
+  "versionCode": 41,
+  "versionName": "1.40",
+  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.40/TecnoPlayerIPTV-v1.40-release.apk",
+  "sha256": "7568773F27A8601F20CC1370E0B4B0EA603A521FAFB741F5970F03A1C7BB9FF3",
   "mandatory": false,
-  "notes": "Acelera la conexion y el cambio de canales en TV en vivo con inicio de buffer rapido, reconexion mas agil y conservacion del ultimo cuadro durante el cambio."
+  "notes": "Agrega decodificacion FFmpeg por software para reproducir pistas AC3, E-AC3, DTS, TrueHD y otros formatos de audio no compatibles de forma nativa con el dispositivo."
 }
