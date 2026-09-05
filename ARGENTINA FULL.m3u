@@ -440,4 +440,120 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS
 #EXTINF:-1 tvg-id="" tvg-name="TDT | Bayres TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="ARGENTINA INTERIOR",TDT | Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="hb0-comedy" tvg-name="HB0 Comedy (Dual Audio)" tvg-logo="http://guiaepg.lat/LOGOS/hbocomedy.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",HB0 Comedy (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/332324.ts
+#EXTINF:-1 tvg-id="hb0-adventure" tvg-name="HB0 Adventure (Dual Audio) Exclusivo" tvg-logo="http://puntozrb.lat/LOGOS/hboadventurelogo.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",HB0 Adventure (Dual Audio) Exclusivo
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216067.ts
+#EXTINF:-1 tvg-id="" tvg-name="HB0 Terror" tvg-logo="http://puntoz.net/LOGOS/hboterror128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",HB0 Terror
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275039.ts
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema (Dual Audio)" tvg-logo="http://puntozrb.lat/LOGOS/starcinema200.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Star Cinema (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/138074.ts
+#EXTINF:-1 tvg-id="star-action" tvg-name="Star Action (Dual Audio)" tvg-logo="http://puntozrb.lat/LOGOS/staraction200.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Star Action (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/138070.ts
+#EXTINF:-1 tvg-id="star-comedy" tvg-name="Star Comedy (Dual Audio)" tvg-logo="http://puntozrb.lat/LOGOS/starcomedy200.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Star Comedy (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals (Dual Audio)" tvg-logo="http://guiaepg.lat/LOGOS/huluoriginals.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Hulu Originals (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/348721.ts
+#EXTINF:-1 tvg-id="marvel-television" tvg-name="Marvel Television (Dual Audio) " tvg-logo="http://guiaepg.lat/LOGOS/marveltelevisionlogo.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Marvel Television (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/348715.ts
+#EXTINF:-1 tvg-id="bein-movies" tvg-name="beIN Movies (Dual Audio)" tvg-logo="http://puntozrb.lat/LOGOS/beinmovies.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",beIN Movies (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216093.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 Action" tvg-logo="http://guiaepg.lat/LOGOS/beinmovieshd2action128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",beIN Movies 2 Action
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/348720.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Movies (Dual Audio)" tvg-logo="http://guiaepg.lat/LOGOS/axnmovies.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",AXN Movies (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/348719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Diamons Films+" tvg-logo="http://guiaepg.lat/LOGOS/diamonsfilms.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Diamons Films+
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216004.ts
+#EXTINF:-1 tvg-id="" tvg-name="Diamons Films+ Comedy" tvg-logo="http://guiaepg.lat/LOGOS/diamondfilmscomedy.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Diamons Films+ Comedy
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/137952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Diamons Films+ Action" tvg-logo="http://guiaepg.lat/LOGOS/diamondfilmsaction200.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Diamons Films+ Action
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216063.ts
+#EXTINF:-1 tvg-id="" tvg-name="Diamons Films+ Terror" tvg-logo="http://puntozrb.lat/LOGOS/diamontfilmterrorLOGO.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Diamons Films+ Terror
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Pixar Movies (Dual Audio)" tvg-logo="http://guiaepg.lat/LOGOS/disneypixarmovies.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney Pixar Movies (Dual Audio)
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemania" tvg-logo="http://puntoz.net/LOGOS/cinemania128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cinemania
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/cinemamarvelanimated.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cinema Marvel Animated ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/cinemamarvel1.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cinema Marvel Studios ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/216016.ts
+#EXTINF:-1 tvg-id="" tvg-name=".TNT Nitro ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/tntnitro128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",.TNT Nitro ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274989.ts
+#EXTINF:-1 tvg-id="" tvg-name=".TNT Sci-fi ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/tntscifi128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",.TNT Sci-fi ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274990.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Movies Kids" tvg-logo="http://puntoz.net/LOGOS/warnerkids128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Warner Movies Kids
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Premiere" tvg-logo="http://puntoz.net/LOGOS/Warner_Premiere128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Warner Premiere
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274992.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Movies" tvg-logo="http://puntoz.net/LOGOS/cartoonnetworkmovies128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cartoon Network Movies
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="http://puntoz.net/LOGOS/cinemundogris.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cine Mundo
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274994.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo Accion" tvg-logo="http://puntoz.net/LOGOS/cinemundoaction128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cine Mundo Accion
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo Comedia" tvg-logo="http://puntoz.net/LOGOS/CINEMUNDOCOMEDIA.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cine Mundo Comedia
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274996.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo Family Classics" tvg-logo="http://puntoz.net/LOGOS/cinemundofamilyclassics128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cine Mundo Family Classics
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274997.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo Premiers" tvg-logo="http://puntoz.net/LOGOS/cinemundopremiere128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cine Mundo Premiers
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo Dark" tvg-logo="http://puntoz.net/LOGOS/cinemundodark128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cine Mundo Dark
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine13" tvg-logo="http://puntoz.net/LOGOS/cine1321281.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Cine13
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/274999.ts
+#EXTINF:-1 tvg-id="" tvg-name="DC Classics" tvg-logo="http://puntoz.net/LOGOS/dcclassics128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",DC Classics
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275000.ts
+#EXTINF:-1 tvg-id="" tvg-name="DC Films" tvg-logo="http://puntoz.net/LOGOS/dcfilms.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",DC Films
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275001.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Movies" tvg-logo="http://puntoz.net/LOGOS/DISNEYchannelmovies128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney Channel Movies
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="http://puntoz.net/LOGOS/disneyplus.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney+
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275003.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ Accion y Aventura ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/Disneyplusaccionyaventurapng.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney+ Accion y Aventura ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275004.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ Ciencia Ficcion ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/disneycienciaficcion128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney+ Ciencia Ficcion ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275005.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ Ciencia Ficcion 2 ⁽ᴴᴰ⁾" tvg-logo="http://guiaepg.lat/LOGOS/disneycienciaficcion2.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney+ Ciencia Ficcion 2 ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ Princesas" tvg-logo="http://puntoz.net/LOGOS/disneyprincesas.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney+ Princesas
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275006.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ W.D. Animation Studios ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/disneyanimationstudios.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney+ W.D. Animation Studios ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Nature" tvg-logo="http://puntoz.net/LOGOS/disneynature128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Disney Nature
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Originals Movies" tvg-logo="http://puntoz.net/LOGOS/maxoriginals128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Max Originals Movies
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids" tvg-logo="http://puntoz.net/LOGOS/netflixoriginalskids1.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Netflix Kids
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Originals Movies" tvg-logo="http://puntoz.net/LOGOS/netflixoriginals.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Netflix Originals Movies
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275011.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Movies" tvg-logo="http://puntoz.net/LOGOS/nickelodeonmovies1288.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Nickelodeon Movies
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine ⁽ᴴᴰ⁾" tvg-logo="http://guiaepg.lat/LOGOS/ultracine.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Ultra Cine ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="http://guiaepg.lat/LOGOS/ultramachonew.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Ultra Macho
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kids ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/UltraKidzLogoBlack.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Ultra Kids ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Animation" tvg-logo="http://puntoz.net/LOGOS/paramountanimation128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Paramount Animation
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Movies Presenta" tvg-logo="http://puntoz.net/LOGOS/Lifetime.Movies.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Lifetime Movies Presenta
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275028.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX Classic" tvg-logo="http://puntoz.net/LOGOS/mxclassiccolorlogo.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",MX Classic
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275030.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX Prime" tvg-logo="http://guiaepg.lat/LOGOS/mxprimenuevo.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",MX Prime
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275031.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX Drama" tvg-logo="http://guiaepg.lat/LOGOS/mxdramanuevo.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",MX Drama
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275032.ts
+#EXTINF:-1 tvg-id="" tvg-name="OLD Cine" tvg-logo="http://puntoz.net/LOGOS/oldcine.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",OLD Cine
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/350396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Halloween Channel ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/halloweenchannellogo128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Halloween Channel ⁽ᴴᴰ⁾
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Horror" tvg-logo="http://puntoz.net/LOGOS/paramounthorror.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Paramount Horror
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star+ Terror" tvg-logo="http://puntoz.net/LOGOS/STARMASTERROR128.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Star+ Terror
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Western Channel" tvg-logo="http://puntoz.net/LOGOS/Westernchannel.png" group-title="⭐ CINE SUPER VIP (Exclusivo)",Western Channel
+http://net01sys.uk:2095/live/AlbertoMartinez/YaLjbOPSKx/275042.ts
 
