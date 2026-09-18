@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.41/TecnoPlayerIPTV-v1.41-release.apk",
-  "sha256": "002C69389684C6EACA2BB3B5D8D2CA624F6E3F582E1D1177F126CAEE3BB4A67B",
-  "mandatory": false,
-  "notes": "Permite adelantar y retroceder peliculas y series con izquierda/derecha o las teclas multimedia del control remoto en Android TV y TV Box. Mantiene el soporte FFmpeg agregado en la version anterior."
+    "versionCode":  43,
+    "versionName":  "1.42",
+    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.42/TecnoPlayerIPTV-v1.42-release.apk",
+    "sha256":  "BF7DE12C5F08523D8FFBACC4C197A445B615BF676FB4B01FC14BCFED1B314D8F",
+    "mandatory":  false,
+    "notes":  "Mejora la carga y actualizacion de peliculas y series: progreso durante la descarga y el guardado, descarga simultanea de listas y organizacion del catalogo sin bloquear la pantalla."
 }
