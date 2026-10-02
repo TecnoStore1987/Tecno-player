@@ -1,8 +1,8 @@
 {
-    "versionCode":  45,
-    "versionName":  "1.44",
-    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.44/TecnoPlayerIPTV-v1.44-release.apk",
-    "sha256":  "9B2517118D61D4FD1A1F5154EA8CFA39F9D27E2A8FD2F2CB80BE7D60ABEFB036",
+    "versionCode":  47,
+    "versionName":  "1.46",
+    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.46/TecnoPlayerIPTV-v1.46-release.apk",
+    "sha256":  "AE0A702A01ADF6949B4E05C2F6CC40A806354EC8ACA7217870F5DB9ABDA722D2",
     "mandatory":  false,
-    "notes":  "Nueva interfaz para celular y Smart TV: portadas mas grandes, destacado al inicio, navegacion con control remoto y fichas renovadas de peliculas y series. Mejora temporadas y episodios y corrige el cierre al abrir series con varias temporadas."
+    "notes":  "Mejoras de reproduccion: buffer ajustado a la memoria del TV, recuperacion de errores de red conservando la posicion y siguiente episodio sin precarga simultanea. Nuevos controles de velocidad, encuadre y reserva de video. Mantiene la navegacion de series y actualizar junto a cada categoria."
 }
