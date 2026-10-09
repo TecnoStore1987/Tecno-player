@@ -129,64 +129,60 @@ http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/317516.m3u
 http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/317525.m3u
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://mundo2.vip:8080/images/11dadba3103a46e999b0bc7177924e93.png" group-title="CINE PREMIUM.",SONY MOVIES
 http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/317554.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 ARGENTINA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="⚽ DEPORTES PREMIUM HD ",FOX SPORTS 3 ARGENTINA SD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199282.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARGENTINA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpeSyLnOLZC4Ty5TWXPLu207DVWY24IDn_g&s" group-title="⚽ DEPORTES PREMIUM HD ",FOX SPORTS 2 ARGENTINA SD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199281.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="⚽ DEPORTES PREMIUM HD ",WWE NETWORK HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199279.ts
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS HD" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ DEPORTES PREMIUM HD ",CLARO SPORTS HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199257.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARGENTINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ DEPORTES PREMIUM HD ",FOX SPORTS 2 ARGENTINA HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199261.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARGENTINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ DEPORTES PREMIUM HD ",FOX SPORTS ARGENTINA HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199260.ts
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV HD" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="⚽ DEPORTES PREMIUM HD ",RED BULL TV HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199265.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS HD" tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="⚽ DEPORTES PREMIUM HD ",SKY SPORTS HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199266.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="⚽ DEPORTES PREMIUM HD ",TNT SPORTS ARGENTINA HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199268.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0eDOVfDUFF1sO9kZuInhcX6Zo16TRIAavnA&s" group-title="⚽ DEPORTES PREMIUM HD ",TVC DEPORTES HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199270.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="⚽ DEPORTES PREMIUM HD ",UFC HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199271.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="⚽ DEPORTES PREMIUM HD ",BEIN SPORTS Ñ HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199255.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  Ñ HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="⚽ DEPORTES PREMIUM HD ",BEIN SPORTS  Ñ HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199256.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Uqob8awhpBed6pEUfrfrR4XoqR2ZjiwOvw&usqp=CAU" group-title="⚽ DEPORTES PREMIUM HD ",ADRENALINA SPORTS HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199254.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television.png" group-title="⚽ DEPORTES PREMIUM HD ",EUROSPORT 1 HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/199258.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/1280px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="⚽ DEPORTES PREMIUM HD ",EUROSPORT 2 HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/267444.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="▶️ DEPORTES ARGENTINA ",ARG I T&C SPORTS SD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120636.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="▶️ DEPORTES ARGENTINA ",ARG I T&C SPORTS  HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120635.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1 HD" tvg-logo="http://flx.lat:8080/images/e5308aa8bb92574804b3eff696c27caa.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 1 HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120634.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 2 HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120633.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3 HD" tvg-logo="http://flx.lat:8080/images/d05ecbde8f2de308085f6693df1f6a79.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 3 HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120632.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TyC Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TyC Sports HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/106104.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports OPC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TYC Sports OPC 2
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/140434.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TYC Sports SD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/129438.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TNT SPORTS
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120641.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TNT SPORTS HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120637.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ARG | ESPN HD" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ", ARG | ESPN HD
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120640.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | ESPN PREMIUM
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120639.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | ESPN PREMIUM
-http://flexlive.lat:8080/live/GarciaDav/xuqp3xN7bS2q/120638.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORTS" tvg-logo="https://www.tmsimg.com/assets/s109752_h3_aa.png" group-title="DIRECTV SPORTS PACK",AR | DIRECTV SPORTS
+https://gotv.vip:443/Federico2890/Federico2890/540806.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORTS 2" tvg-logo="https://www.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV SPORTS PACK",AR | DIRECTV SPORTS 2
+https://gotv.vip:443/Federico2890/Federico2890/540805.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://i.postimg.cc/527qJ1Hy/8.png" group-title="DEPORTES",ESPN PREMIUM
+https://gotv.vip:443/Federico2890/Federico2890/171844.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",ARG | TNT SPORTS HD
+https://gotv.vip:443/Federico2890/Federico2890/146030.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS  2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS  2
+https://gotv.vip:443/Federico2890/Federico2890/65665.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS  2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="ARGENTINA",ARG | FOX SPORTS  2
+https://gotv.vip:443/Federico2890/Federico2890/65665.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="DEPORTES",ARG | ESPN 3
+https://gotv.vip:443/Federico2890/Federico2890/65662.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="ARGENTINA",ARG | ESPN 3
+https://gotv.vip:443/Federico2890/Federico2890/65662.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="DEPORTES",ARG | ESPN 2
+https://gotv.vip:443/Federico2890/Federico2890/65661.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="ARGENTINA",ARG | ESPN 2
+https://gotv.vip:443/Federico2890/Federico2890/65661.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ARGENTINA",ARG | ESPN
+https://gotv.vip:443/Federico2890/Federico2890/65659.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 3
+https://gotv.vip:443/Federico2890/Federico2890/65655.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="ARGENTINA",ARG | FOX SPORTS 3
+https://gotv.vip:443/Federico2890/Federico2890/65655.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS  2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS  2
+https://gotv.vip:443/Federico2890/Federico2890/65654.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS  2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="ARGENTINA",ARG | FOX SPORTS  2
+https://gotv.vip:443/Federico2890/Federico2890/65654.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 1
+https://gotv.vip:443/Federico2890/Federico2890/65653.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="ARGENTINA",ARG | FOX SPORTS 1
+https://gotv.vip:443/Federico2890/Federico2890/65653.ts
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="ARGENTINA",ARG | ESPN 3
+https://gotv.vip:443/Federico2890/Federico2890/65648.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="ARGENTINA",ARG | ESPN 2
+https://gotv.vip:443/Federico2890/Federico2890/65647.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 2
+https://gotv.vip:443/Federico2890/Federico2890/65643.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="ARGENTINA",ARG | FOX SPORTS 2
+https://gotv.vip:443/Federico2890/Federico2890/65643.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 1
+https://gotv.vip:443/Federico2890/Federico2890/65642.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="ARGENTINA",ARG | FOX SPORTS 1
+https://gotv.vip:443/Federico2890/Federico2890/65642.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 4" tvg-logo="https://img.lightshot.app/okbq7-vdTsKOSqBsnrlNuQ.png" group-title="ARGENTINA",ARG | ESPN 4
+https://gotv.vip:443/Federico2890/Federico2890/65638.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://www.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title="FOX SPORTS PACK",FOX SPORTS PREMIUM
+https://gotv.vip:443/Federico2890/Federico2890/29641.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES | DAZN FORMULA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGdx7OCjeqGtnIpqQcZKC2FSTY8UlMEA2TJzVj3CF7qC3oVef0dLs5NQeVX4fVbfq-qcQ&usqp=CAU" group-title="FORMULA 1",ES | DAZN FORMULA 1
+https://gotv.vip:443/Federico2890/Federico2890/20591.ts
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
+https://gotv.vip:443/Federico2890/Federico2890/348.ts
 #EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="https://i.ytimg.com/vi/6AckSd4Qswk/maxresdefault.jpg" group-title="CINE PREMIUM.",P | UNIVERSAL CRIMEN HD
 http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/111422.m3u
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="CINE PREMIUM.",P | UNIVERSAL COMEDY HD
