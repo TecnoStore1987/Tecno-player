@@ -1,8 +1,8 @@
 {
-    "versionCode":  48,
-    "versionName":  "1.47",
-    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.47/TecnoPlayerIPTV-v1.47-release.apk",
-    "sha256":  "D56039862FDCBBCF8BFF12AEF2536C83B90A9093992E8F576011C4720DA7755C",
+    "versionCode":  49,
+    "versionName":  "1.48",
+    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.48/TecnoPlayerIPTV-v1.48-release.apk",
+    "sha256":  "FA42D1C018100F6E6C5A1AC3AC07F00A7742E247FD0F7554D62F5EC12727C9AB",
     "mandatory":  false,
-    "notes":  "Banner de inicio con rotacion automatica cada 7 segundos. Peliculas y series muestran primero estrenos y contenido recien agregado, con el año como respaldo cuando falta la fecha de agregado."
+    "notes":  "Nueva seccion Streaming con Luzu TV, Olga, Un Poco de Ruido, Vorterix y Blender. Reproductores oficiales dentro de la app, alternativa Twitch para Luzu, Olga y Vorterix, deteccion del vivo y acceso a los programas del canal. Mantiene banner automatico y estrenos primero."
 }
