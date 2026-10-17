@@ -1,8 +1,8 @@
 {
-    "versionCode":  53,
-    "versionName":  "1.52",
-    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.52/TecnoPlayerIPTV-v1.52-release.apk",
-    "sha256":  "94041274EA1FF3453B7DF010EBC342089B94A2DE853886F87AAE32944EDFB810",
+    "versionCode":  54,
+    "versionName":  "1.53",
+    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.53/TecnoPlayerIPTV-v1.53-release.apk",
+    "sha256":  "DEEEBDDAECC37D6F2789CFCD2CBDF2B58640BFB4C7F39060A7D232B51CFE3061",
     "mandatory":  false,
-    "notes":  "Pantalla completa de streaming corregida: se ocultan las opciones superiores y el boton de pausa. Atras vuelve a los canales sin reiniciar el video."
+    "notes":  "Controles de reproduccion corregidos: cartel de TV con ocultado automatico, barra de avance interactiva en peliculas y series, opciones de video accesibles y modo inmersivo."
 }
