@@ -1,8 +1,8 @@
 {
-    "versionCode":  55,
-    "versionName":  "1.54",
-    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.54/TecnoPlayerIPTV-v1.54-release.apk",
-    "sha256":  "395B0DE820B0D1F3BD355AEDBE53A30250ADD9CE37169D5288440BD6AAD786A7",
+    "versionCode":  57,
+    "versionName":  "1.56",
+    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.56/TecnoPlayerIPTV-v1.56-release.apk",
+    "sha256":  "D5AA2E6139EED34D081745330F3E82FC7DF31871EF359E66A73E255688988B5F",
     "mandatory":  false,
-    "notes":  "Demo gratuita de 3 horas por dispositivo desde el login. Contador en Inicio, aviso de ultimos 10 minutos y cierre automatico al vencer con acceso al login habitual."
+    "notes":  "Panel administrador con estadisticas de demos: activadas, vigentes, finalizadas y reproduciendo ahora. Incluye historial y contacto de WhatsApp."
 }
