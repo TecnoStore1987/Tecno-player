@@ -1,8 +1,0 @@
-{
-  "enabled": true,
-  "refreshHours": 12,
-  "sources": [
-    "https://iptv-epg.org/files/epg-ar.xml.gz",
-    "https://www.open-epg.com/files/argentina.xml.gz"
-  ]
-}
