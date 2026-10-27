@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT SPORTS" tvg-logo="https://go4.pw/LATINO/tnt-sports.png" group-title="BOCA VS RIVER",DHD | TNT SPORTS
+http://tvprem.pro:8080/live/Econet11/smc1234/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT SPORTS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="BOCA VS RIVER",DHD | TNT SPORTS
+http://elpapanatas.space:8080/California2/Elsalvador2/1122
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="BOCA VS RIVER",DHD | TNT SPORTS
+https://gotv.vip:443/Federico2890/Federico2890/146030.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ESPN_Premium_%282022%29.svg/revision/latest/scale-to-width-down/200?cb=20220505041004" group-title="BOCA VS RIVER",DHD | ESPN PREMIUM
+http://tvprem.pro:8080/live/Econet11/smc1234/118058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN PREMIUM" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="BOCA VS RIVER",DHD | ESPN PREMIUM
+http://elpapanatas.space:8080/California2/Elsalvador2/1124
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN PREMIUM" tvg-logo="https://img.lightshot.app/VdC8YJO7TJuSm_zkUjL4Sg.png" group-title="BOCA VS RIVER",ESPN PREMIUM
+https://gotv.vip:443/Federico2890/Federico2890/587986.ts
