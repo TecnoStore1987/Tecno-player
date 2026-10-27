@@ -1,2 +1,3 @@
 CANALES|https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/ARGENTINA%20FULL.m3u
 VOD|http://liontv.es:8080/get.php?username=Hermanos503&password=BysckXDynC&type=m3u_plus
+https://raw.githubusercontent.com/TecnoStore1987/Tecno-player/refs/heads/main/BOCA%20VS%20RIVER
