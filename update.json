@@ -1,8 +1,8 @@
 {
-    "versionCode":  57,
-    "versionName":  "1.56",
-    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.56/TecnoPlayerIPTV-v1.56-release.apk",
-    "sha256":  "D5AA2E6139EED34D081745330F3E82FC7DF31871EF359E66A73E255688988B5F",
+    "versionCode":  58,
+    "versionName":  "1.57",
+    "apkUrl":  "https://github.com/TecnoStore1987/tecno-player/releases/download/V1.57/TecnoPlayerIPTV-v1.57-release.apk",
+    "sha256":  "4DBF6E9C4CFBF76F09E4A33E0B62C1603354D74ADF61C5BAD13A004B2E28F65E",
     "mandatory":  false,
-    "notes":  "Panel administrador con estadisticas de demos: activadas, vigentes, finalizadas y reproduciendo ahora. Incluye historial y contacto de WhatsApp."
+    "notes":  "Mejoras de recuperacion automatica de TV en vivo, fuentes de respaldo sin bucles y mensajes de reconexion."
 }
